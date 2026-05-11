@@ -1,0 +1,10 @@
+"","record_id.x","project_id","indicator_id","month","target_value","record_id.y","actual_value","project_name","country","donor","start_date","end_date","status","indicator_name","sector","achievement_rate"
+"1","T001","P001","I001","2024-01-01",500,"A001",450,"Health Access","Uganda","USAID",2024-01-01,2025-12-31,"Active","Number of beneficiaries reached","Health",0.9
+"2","T002","P001","I001","2024-02-01",600,"A002",620,"Health Access","Uganda","USAID",2024-01-01,2025-12-31,"Active","Number of beneficiaries reached","Health",1.03333333333333
+"3","T003","P002","l002","2025-02-01",700,"A003",250,"WASH Program","Kenya","UNICEF",2024-03-01,2026-02-28,"Active",NA,NA,0.357142857142857
+"4","T003","P002","l002","2025-02-01",700,"A004",300,"WASH Program","Kenya","UNICEF",2024-03-01,2026-02-28,"Active",NA,NA,0.428571428571429
+"5","T004","P002","l002","2025-02-01",500,"A003",250,"WASH Program","Kenya","UNICEF",2024-03-01,2026-02-28,"Active",NA,NA,0.5
+"6","T004","P002","l002","2025-02-01",500,"A004",300,"WASH Program","Kenya","UNICEF",2024-03-01,2026-02-28,"Active",NA,NA,0.6
+"7","T005","P004","I001","2024-01-01",400,"A005",350,"Livelihood","Ethiopia","WFP",2025-03-01,2027-04-02,"Active","Number of beneficiaries reached","Health",0.875
+"8","T006","P004","I002","2024-02-01",600,"A006",200,"Livelihood","Ethiopia","WFP",2025-03-01,2027-04-02,"Active","Number of households with clean water","WASH",0.333333333333333
+"9","T007","P005","I003","2024-03-01",500,"A007",150,"Protection","Burundi","Wolrd Vision",2024-03-04,2025-03-03,"Closed",NA,NA,0.3

@@ -1,0 +1,8 @@
+"","record_id","project_id","month","gender","age_group","disability","total"
+"1","B001","P001","2024-01-01","Female","Adult","No",200
+"2","B002","P001","2024-01-01","Male","Adult","Yes",50
+"3","B003","P002","2025-02-01","Male","Young","Yes",40
+"4","B004","P002","2025-02-02","Female","Young","No",70
+"5","B005","P004","2026-01-03","Male","Adult","No",90
+"6","B006","P004","2026-01-04","Female","Adult","Yes",80
+"7","B007","P005","2026-01-05","Male","Young","No",60
